@@ -2229,6 +2229,7 @@
 - is Rasa works with Unity3d?
 - rasa uses deep learning ?
 - i want to extract predefined entity from user query
+- can you support mail chat
 
 ## intent:restart
 - yep you can restart
@@ -2241,13 +2242,6 @@
 - hey, i said restart
 - restart session pls
 - restart ps
-
-## synonym:english
-- English
-- en
-- eng
-- Eng
-- ENGLISH
 
 ## synonym: duration
 - durations
@@ -2378,9 +2372,3 @@
 
 ## regex:zipcode
 - [0-9]{5}
-
-## lookup:location.txt
-data/nlu/lookups/location.txt
-
-## lookup:products.txt
-data/nlu/lookups/products.txt

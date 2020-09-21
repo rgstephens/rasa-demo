@@ -672,6 +672,7 @@
 - where can i get a tutorial on rasa
 - yes, where I can find some hand-on tutorials to use RASA products?
 - I need to study RASA step by step, which is the best site to study?
+- i want to see a tutorial
 
 ## intent:faq/voice
 - Building a rasa voice bot?

@@ -77,3 +77,15 @@
 * nlu_generation_tool_recommendation{"product":"nlu"}
     - slot{"product":"nlu"}
     - utter_nlu_tools
+
+## Story from conversation with 484623665d994ad7acbeea8cec574ccd on September 21st 2020
+
+* greet
+    - action_greet_user
+    - slot{"shown_privacy":true}
+* greet
+    - action_greet_user
+* greet
+    - action_greet_user
+* explain
+    - utter_possibilities

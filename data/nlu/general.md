@@ -462,6 +462,7 @@
 - stop it, i do not care!!!
 - none of them
 - I don't agree
+- /deny
 
 ## intent:explain
 - can you elaborate
