@@ -256,6 +256,7 @@
 - how are you Rasa
 - Hey Sara, how's it going
 - are you cool
+- how are things
 
 ## intent:chitchat/ask_howold
 - Do you have friends the same age as you, if so, how old are they?
@@ -1211,6 +1212,9 @@
 - tell me something funny, like a joke
 - you can say a jok
 - telljoke
+
+## intent:faq
+- Where can I get information on pricing for[ rasa-x](company)?
 
 ## lookup:location.txt
   data/nlu/lookups/location.txt
